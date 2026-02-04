@@ -15,9 +15,15 @@
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/raphaella-tamyres-siqueira-gonçalves-917bab56)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/raphaellatamyres)
-[![Behance](https://img.shields.io/badge/Behance-blue?logo=behance)](https://www.behance.net/raphaellat0aa2)
+<a href="https://linkedin.com/in/raphaella-tamyres-siqueira-gonçalves-917bab56" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/raphaellatamyres" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+<a href="https://www.behance.net/raphaellat0aa2" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40"/>
+</a>
 
 ---
 
